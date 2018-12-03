@@ -12,9 +12,12 @@
 .clang_complete
 .gcc-flags.json
 .piolibdeps
+platformio.ini
 
 ## Project #####################
+.gitignore
 lib/readme.txt
+lib/pubsubclient/src/PubSubClient.h
 src/Custom.h
 /ESPEasy
 test/output_export.cpp
